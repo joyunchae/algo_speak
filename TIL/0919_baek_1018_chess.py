@@ -1,3 +1,5 @@
+# 백준 체스판 문제
+
 N, M = map(int, input().split())
 original = []
 count = []
